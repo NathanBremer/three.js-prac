@@ -1,4 +1,5 @@
-# Three.js Starter
+# Three.js practice
+
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
 
 ## Setup
